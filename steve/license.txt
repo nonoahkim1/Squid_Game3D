@@ -1,0 +1,11 @@
+Model Information:
+* title:	Squid Games Minecraft Steve
+* source:	https://sketchfab.com/3d-models/squid-games-minecraft-steve-8a9df3abe2f74e95ba0d24045eb42182
+* author:	RilyGames (https://sketchfab.com/RilyGame)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Squid Games Minecraft Steve" (https://sketchfab.com/3d-models/squid-games-minecraft-steve-8a9df3abe2f74e95ba0d24045eb42182) by RilyGames (https://sketchfab.com/RilyGame) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
